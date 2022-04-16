@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    color: rgb(109, 129, 63);
+    font-size: 50px;
+    font-family: Trebuchet MS, sans-serif
+}
+
+h2 {
+    text-align: center;
+    color: rgb(44, 134, 150);
+    text-align: center; 
+    font-family: Verdana;
+}
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(240, 28, 28);
+    font-size: 50px;
+    font-family: DejaVu Sans Mono, monospace;
+}
+
+h4 {
+    color: white;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #48494b;
+}
+
+p {
+    font-size: 30px;    
+    color: #3e8683;
+    font-family: Arial Narrow, sans-serif;
+}
+
+
+
+
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #222021;
+    padding: 20px; 
+    width: 900px;
+    height: 1000px;
+    border-radius: 0.25rem
+}
+
