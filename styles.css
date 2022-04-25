@@ -49,6 +49,7 @@ p {
     border-radius: 0.25rem
 }
 
+
 #rcorners2 {
     border-radius: 25px;
     background: #222021;
@@ -71,7 +72,7 @@ p {
   transition-duration: 0.7s;
   cursor: pointer;
 }
-}
+
 
 .button1 {
   background-color: white; 
@@ -86,5 +87,5 @@ p {
 
 
 a {
-				color:#7fd079
+	color:#7fd079
 }
