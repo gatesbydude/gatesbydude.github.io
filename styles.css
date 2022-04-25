@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    color: red ;
+    color: lightgrey ;
     font-size: 50px;
     font-family: Trebuchet MS, sans-serif;
 }
@@ -39,7 +39,7 @@ p {
 
 
 
-
+ 
 #rcorners1 {
     border-radius: 25px;
     background: #222021;
@@ -54,6 +54,7 @@ p {
     background: #222021;
     padding: 20px; 
     width: 900px;
+    text-align: ;
     height: 600px;
     border-radius: 0.25rem;
 }
