@@ -8,39 +8,54 @@ h1 {
     color: black;
 }
 .poga {
-   border-top: 1px solid #9409f8;
-   background: #6fa81e;
-   background: -webkit-gradient(linear, left top, left bottom, from(#78139d), to(#6fa81e));
-   background: -webkit-linear-gradient(top, #78139d, #6fa81e);
-   background: -moz-linear-gradient(top, #78139d, #6fa81e);
-   background: -ms-linear-gradient(top, #78139d, #6fa81e);
-   background: -o-linear-gradient(top, #78139d, #6fa81e);
-   padding: 7.5px 15px;
-   -webkit-border-radius: 9px;
-   -moz-border-radius: 9px;
-   border-radius: 9px;
-   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
-   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
-   box-shadow: rgba(0,0,0,1) 0 1px 0;
-   text-shadow: rgba(0,0,0,.4) 0 1px 0;
-   color: white;
-   font-size: 20px;
-   font-family: Helvetica, Arial, Sans-Serif;
-   text-decoration: none;
-   vertical-align: middle;
-   }
-.poga:hover {
-   border-top-color: #940fc8;
-   background: #940fc8;
-   color: #ccc;
-   }
-.poga:active {
-   border-top-color: #6fa81e;
-   background: #6fa81e;
-   }
-   
+    border-top: 1px solid #690d0d;
+    background: #c6e1f2;
+    background: -webkit-gradient(linear, left top, left bottom, from(#961212), to(#c6e1f2));
+    background: -webkit-linear-gradient(top, #961212, #c6e1f2);
+    background: -moz-linear-gradient(top, #961212, #c6e1f2);
+    background: -ms-linear-gradient(top, #961212, #c6e1f2);
+    background: -o-linear-gradient(top, #961212, #c6e1f2);
+    padding: 16.5px 33px;
+    -webkit-border-radius: 1px;
+    -moz-border-radius: 1px;
+    border-radius: 1px;
+    -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: #000000;
+    font-size: 21px;
+    font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+    text-decoration: none;
+    vertical-align: middle;
+    }
+ .poga:hover {
+    border-top-color: #541111;
+    background: #541111;
+    color: #ccc;
+    }
+ .poga:active {
+    border-top-color: #1b435e;
+    background: #1b435e;
+    }
 .space { margin-top: 300px; }
 
 .smallspace {
-    margin-top: 70px; }
+    margin-top: 70px; 
+}
+
+
+#kroplis {
+    border: 8px red;
+    padding: 60px;
+    width: 400px;
+}
+
+h2 {
+    font-size: 40px;
+    font-family: Arial;
+}
+
+p {
+    font-size: 30px;
 }
