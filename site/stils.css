@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+.konteineris {
+    width: 1300px;
+    height: 800px;
+    margin: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:#4c566a;
+    
+    padding: 10px;
+    border: 7px solid #5e81ac;
+    border-radius: 15px;
+    justify-content: flex-start;
+}
+  
+body {
+    background-color: #3b4252;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+
+    margin: 0;
+    padding: 0;
+    background-image: radial-gradient(#2e3440 2px, transparent 2px); /* Dotted pattern */
+    background-size: 10px 10px; /* Size of dots */
+}
+
+#zivs {
+    padding: 25px;
+    border: 5px solid #2e3440 ;
+    border-radius: 100%;
+}
+
+#tkont {
+    border: 5px solid #2e3440;
+    border-radius: 20px;
+    width: 1000px; 
+    height: 780px;  
+    margin-left: 20px;
+    position: relative; 
+}
+
+h1 {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 50px;
+    color: #81a1c1;
+}
+
+p {
+    font-family: "JetBrains Mono", monospace;
+    font-size: 20px;
+    color: #81a1c1;
+}
+
+#kaajene {
+  position: absolute;
+  left: 0;
+  bottom:0; 
+  width: 100%;
+  background-color: #88c0d0;
+  color: white;
+  text-align: center;
+  border: 5px transparent;
+  border-radius: 20px;
+}
+/*
+#2e3440 border
+ #4c566a bg
+#3b4252 kont.
+*/
